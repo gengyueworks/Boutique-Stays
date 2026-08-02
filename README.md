@@ -1,5 +1,21 @@
 # Boutique Stays · 精品住宿
 
+> 订酒店是我做攻略最头疼的一环。
+>
+> 官方图都拍得像杂志封面，到了现场发现窗户对着停车场。点评网站更不靠谱，五星好评一半是刷的，差评又是情绪发泄。每次出门我都得翻七八个平台，把信息拼起来，还不一定能拼对。
+>
+> 后来我想，既然每家我都亲自住过、拍过、写过，为什么不把这些真实体验收在一起？床软不软、早餐行不行、窗户外到底是什么，住过的人才知道。这个库存的就是这些，不是官方图，不是水军点评，是我自己住过的房间。
+
+---
+
+> Booking a place to stay is the most painful part of planning a trip for me.
+>
+> Official photos all look like magazine covers, and when you arrive, the window faces a parking lot. Review sites are worse—half the five-star ratings are paid, and the one-star rants are just people venting. Before every trip I'd dig through seven or eight platforms, piecing things together, and still not get it right.
+>
+> Then I thought: since I've personally stayed in, photographed, and written about each of these places, why not collect those real experiences in one spot? Whether the bed is soft, whether the breakfast is decent, what's actually outside the window—only someone who's stayed there knows. That's what this repository holds. Not official photos. Not paid reviews. Rooms I've actually slept in.
+
+---
+
 **值得住的小众设计民宿与特色酒店 · Curated stays and hospitality stories.**
 
 从腾格里沙漠里的钻石酒店到无锡荡口古镇的美憬阁，从日本房车Airbnb到布拉格船屋——每一次住宿，都是一段住进当地生活的故事。
