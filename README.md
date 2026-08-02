@@ -18,7 +18,7 @@ From a desert diamond hotel in the Tengger dunes to a MGallery in ancient Wuxi, 
 | [沙漠钻石酒店｜重启：回归内心宇宙](essays/desert-diamond/index.zh.md) | 沙漠钻石酒店（Desert Diamond） | 宁夏 · 中卫 · 腾格里沙漠 |
 | [越南岘港 Fusion｜「住进水疗里」的身心焕新之旅](essays/fusion-da-nang/index.zh.md) | Fusion Resort & Villas Da Nang | 越南 · 岘港 |
 | [无锡荡口古镇美憬阁｜重绘一曲江南史诗](essays/mgallery-dangkou/index.zh.md) | 美憬阁（MGallery）· 雅高精选 | 江苏 · 无锡 · 荡口古镇 |
-| [迪拜巨型建筑｜哈利法塔与帆船酒店](essays/dubai-mega-structures/index.zh.md) | 阿玛尼酒店 · 帆船酒店（Burj Al Arab） | 阿联酋 · 迪拜 |
+| [迪拜的巨型建筑：一座城市为什么要造梦](essays/dubai-mega-structures/index.zh.md) | 哈利法塔 · 帆船酒店 · 棕榈岛 | 阿联酋 · 迪拜 |
 
 ## 🏠 Airbnb 民宿
 
