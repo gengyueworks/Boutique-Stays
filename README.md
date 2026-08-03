@@ -45,13 +45,8 @@ Browse the `essays/` directory to read. Each essay contains `index.zh.md`, `inde
 | 11 | 美食 · 和松露猎人，穿越佛罗伦萨的森林去探险 | 意大利 · 佛罗伦萨 | [中](essays/truffle-hunters-florence/index.zh.md) / [英](essays/truffle-hunters-florence/index.en.md) |
 | 12 | 巴黎 · 去爱吧，就像不曾受过伤一样 | 法国 · 巴黎 | [中](essays/paris-go-love/index.zh.md) / [英](essays/paris-go-love/index.en.md) |
 | 13 | 遇到，想不到 · 旧金山 | 美国 · 旧金山 | [中](essays/san-francisco-heart/index.zh.md) / [英](essays/san-francisco-heart/index.en.md) |
-
-### ✨ 感官之旅 · Sensory Series
-
-| # | 文章 | 主题 | 中 / 英 |
-|---|------|------|--------|
-| 01 | 感官之旅：开启感官的奇妙旅程 | 住宿感官体验 | [中](essays/sensory-journey/index.zh.md) |
-| 02 | 当我们在谈论感官的时候，在谈论什么 | 五感与一期一会 | [中](essays/talking-about-senses/index.zh.md) |
+| 14 | 感官之旅：开启感官的奇妙旅程 | 住宿感官体验 | [中](essays/sensory-journey/index.zh.md) |
+| 15 | 当我们在谈论感官的时候，在谈论什么 | 五感与一期一会 | [中](essays/talking-about-senses/index.zh.md) |
 
 ---
 
